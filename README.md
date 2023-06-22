@@ -5,7 +5,7 @@ Um app de chat com recursos do Firebase como autenticação de e-mail(login e re
 ### Screenshots:
 
 <div style='display: inline_block'>
-     <img style='height:150px' align='center' width="500" height="600" alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.17.729.png'/>
+     <img style='height:150px' align='center' height="600" alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.17.729.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.44.937.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.45.31.69.png'/>
 </div>
