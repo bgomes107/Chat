@@ -2,6 +2,14 @@
 
 Um app de chat com recursos do Firebase como autenticação de e-mail(login e registro) e Firestore Database para o armazenamento de dados do usuário.
 
+### Screenshots:
+
+<div style='display: inline_block'>
+     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.17.729.png'/>
+    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.44.937.png'/>
+    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.45.31.69.png'/>
+</div>
+
 ### Dependências utilizadas no projeto:
 
 <ul>
@@ -17,11 +25,3 @@ Um app de chat com recursos do Firebase como autenticação de e-mail(login e re
     <li>react-native-screens;</li>
     <li>react-native-vector-icons;</li>
 </ul> 
-
-### Screenshots:
-
-<div style='display: inline_block'>
-     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.17.729.png'/>
-    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.42.44.937.png'/>
-    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/Chat/blob/main/screenshots/screenshot-2022-08-24_18.45.31.69.png'/>
-</div>
